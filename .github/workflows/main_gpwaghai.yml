@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'gpwaghai'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1FCEAA32E6F44105A5C182434D03F0CB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D15AAE6D71F044DDA276EC945CEBAC8D }}
           package: .

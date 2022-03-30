@@ -1,0 +1,8 @@
+<html>
+<h1>
+well come </h1>
+<?php
+echo this is my first php 
+?>
+
+</html>
